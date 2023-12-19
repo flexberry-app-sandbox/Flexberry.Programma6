@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-programma-6-расположение-e",
+  "editForm": "i-i-s-programma-6-расположение-e",
+  "external": false,
+  "caption": "Расположение",
+  "name": "IISProgramma_6РасположениеL",
+  "className": "РасположениеL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-programma-6-расположение",
+      "modelProjection": "РасположениеL"
+    }
+  ]
+}

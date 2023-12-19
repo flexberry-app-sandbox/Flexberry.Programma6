@@ -1,0 +1,1 @@
+docker-compose -p programma_6-java down

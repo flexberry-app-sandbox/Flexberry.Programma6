@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Серверная",
+  "name": "IISProgramma_6СервернаяE",
+  "className": "СервернаяE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-programma-6-серверная",
+      "modelProjection": "СервернаяE"
+    }
+  ]
+}
